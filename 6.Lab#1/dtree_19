@@ -50,7 +50,7 @@ edge [fontname=helvetica] ;
 22 -> 23 ;
 24 [label=<Plans &le; 1.5<br/>gini = 0.428<br/>samples = 71<br/>value = [49, 22]<br/>class = 0>, fillcolor="#e581398d"] ;
 22 -> 24 ;
-25 [label=<Total day charge &le; 67.935<br/>gini = 0.042<br/>samples = 47<br/>value = [46, 1]<br/>class = 0>, fillcolor="#e58139f9"] ;
+25 [label=<Total charge &le; 111.24<br/>gini = 0.042<br/>samples = 47<br/>value = [46, 1]<br/>class = 0>, fillcolor="#e58139f9"] ;
 24 -> 25 ;
 26 [label=<gini = 0.0<br/>samples = 46<br/>value = [46, 0]<br/>class = 0>, fillcolor="#e58139ff"] ;
 25 -> 26 ;
